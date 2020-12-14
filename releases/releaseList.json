@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "0",
+    "Name": "Full Source Release 1.0",
+    "DevelopmentStatus": "None",
+    "Description": "Runs out of the box in VS2005 as a VB.NET web project\n\nTo run on IIS make sure site has full permissions.\n\nAlso ASP.NET must be set to process all files - i.e. a wildcard in IIS6.0 or * in IIS5.0\n\nTo access the admin part of the site to to http://domainname/siteadmin and log in as *admin* with password *password*\n\nOnce logged in, various options are available as well as an edit mode toggle from every page.\n\n",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2008-07-06T11:20:55.857-07:00",
+    "Files": [
+      {
+        "Id": "24f67d03-eb87-423b-8f39-2191d2f538d5",
+        "FileName": "vbdotnetcms.zip",
+        "Url": "./0/24f67d03-eb87-423b-8f39-2191d2f538d5",
+        "Type": "Source Code",
+        "UploadDate": "2008-07-03T07:10:30.39-07:00"
+      }
+    ]
+  }
+]
